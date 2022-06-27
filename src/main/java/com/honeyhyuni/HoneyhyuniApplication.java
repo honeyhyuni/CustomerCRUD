@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HoneyhyuniApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(HoneyhyuniApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(HoneyhyuniApplication.class, args);
+    }
 
 }
